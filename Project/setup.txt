@@ -1,0 +1,60 @@
+add hub
+add hub
+add hub
+add hub
+add hub
+add hub
+add hub
+add timer
+add timer
+add timer
+add bulb
+add bulb
+add bulb
+add bulb
+add bulb
+add window
+add window
+add window
+add window
+add window
+add window
+add fridge
+add fridge
+add fridge
+add fridge
+link hub1
+link hub2 to hub1
+link hub3 to hub1
+link hub4 to hub1
+link hub5 to hub2
+link hub6 to hub2
+link bulb1 to hub5
+link bulb2 to hub5
+link bulb3 to hub5
+link window1 to hub6
+link window2 to hub6
+link window3 to hub3
+link window4 to hub3
+link window5 to hub3
+link fridge1 to hub4
+link fridge2 to hub4
+link hub7
+link timer1 to hub7
+link timer2 to hub7
+link fridge3 to timer1
+link window6 to timer2
+link timer3
+link bulb4 to timer3
+link bulb5
+link fridge4
+add hub
+add hub
+add timer
+add bulb
+add bulb
+add bulb
+add bulb
+add window
+add window
+add fridge
